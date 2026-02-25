@@ -1,7 +1,7 @@
 # Hi there, I'm Paulo Roberto 👋
 
 ## 👨‍💻 About Me
-- 🔭 Currently working as a software developer.
+- 🔭 Currently working as a software engineer at Avenue.
 - 🌱 Always learning new things: Python, JavaScript, C++, Go, Rust and Java.
 - 💬 Ask me about backend development, distributed systems, system design and clean code practices.
 - 🚀 Passionate about building scalable applications and solving real-world problems.
@@ -13,11 +13,11 @@
 - Database: PostgreSQL, MySQL, MongoDB, Redis, Oracle, QuestDB, TimescaleDB, Clickhouse, InfluxDB
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxpauloxx)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-social)
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-xxpauloxx-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/xxpauloxx)
-[![Website](https://img.shields.io/badge/Website-xxpauloxx.com.br-green?style=flat&logo=google-chrome)](https://xxpauloxx.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-paulo-social-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/paulo-social)
+[![Website](https://img.shields.io/badge/Website-paulo-social.com.br-green?style=flat&logo=google-chrome)](https://paulo.social)
 
 ---
 
