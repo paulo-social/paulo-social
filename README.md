@@ -33,11 +33,6 @@ Beyond the code, I dedicate my time to projects that bridge the gap between tech
 
 ---
 
-### 📈 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=paulo-social&show_icons=true&theme=tokyonight)
-
----
-
 ### 📫 Let's Connect
 * **Personal Site:** [paulo.social](https://paulo.social/) 
 * **LinkedIn:** [/in/paulo-social](https://linkedin.com/in/paulo-social)
